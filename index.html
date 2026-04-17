@@ -37,11 +37,16 @@
     h1 { font-size: clamp(40px, 8vw, 88px); line-height: .95; margin: 16px 0; max-width: 900px; }
     .lead { max-width: 860px; font-size: 18px; line-height: 1.7; color: var(--muted); }
     .hero-grid { display: grid; grid-template-columns: 1.4fr .8fr; gap: 24px; margin-top: 36px; }
+    .concept-strip { max-width: 1320px; margin: 0 auto; padding: 0 24px 8px; display:grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
     .glass {
       background: var(--paper); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,.5);
       border-radius: var(--radius); box-shadow: var(--shadow);
     }
     .hero-card { padding: 28px; }
+    .concept-card { padding: 18px; display:flex; flex-direction:column; gap: 14px; min-height: 220px; }
+    .concept-card svg { width: 100%; height: 120px; display:block; }
+    .concept-card h4 { margin: 0; font-size: 16px; }
+    .concept-card p { margin: 0; font-size: 13px; line-height: 1.6; color: var(--muted); }
     .pillbar { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
     .pill { padding: 10px 14px; border-radius: 999px; background: rgba(161,47,43,.08); color: var(--deep); font-size: 13px; }
     .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
@@ -82,6 +87,7 @@
     @media (max-width: 900px) {
       header { padding: 44px 18px 20px; }
       .hero-grid { grid-template-columns: 1fr; }
+      .concept-strip { padding: 0 16px 8px; grid-template-columns: 1fr; }
       .toolbar { padding: 12px 16px; }
       .toolbar-inner { gap: 10px; }
       input, select { width: 100%; min-width: 0; }
@@ -118,6 +124,53 @@
       </div>
     </div>
   </header>
+  <section class="concept-strip">
+    <article class="glass concept-card">
+      <svg viewBox="0 0 320 120" aria-hidden="true">
+        <defs>
+          <linearGradient id="g1" x1="0" x2="1">
+            <stop offset="0%" stop-color="#a12f2b" />
+            <stop offset="100%" stop-color="#c98b00" />
+          </linearGradient>
+        </defs>
+        <rect x="12" y="12" width="296" height="96" rx="18" fill="rgba(161,47,43,.05)" stroke="rgba(79,32,25,.12)"/>
+        <circle cx="64" cy="60" r="22" fill="url(#g1)" opacity=".9"/>
+        <circle cx="112" cy="60" r="10" fill="#fff" opacity=".85"/>
+        <circle cx="144" cy="60" r="6" fill="#a12f2b"/>
+        <path d="M175 38 C215 16, 255 16, 290 38" stroke="#a12f2b" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path d="M175 60 C215 38, 255 38, 290 60" stroke="#c98b00" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path d="M175 82 C215 60, 255 60, 290 82" stroke="#4f2019" stroke-width="4" fill="none" stroke-linecap="round"/>
+      </svg>
+      <h4>Motif grammar</h4>
+      <p>Quick concept graphics highlight how dots, mirrors, waves, lattices, shrine layouts, and textile repeats work as reusable visual systems.</p>
+    </article>
+    <article class="glass concept-card">
+      <svg viewBox="0 0 320 120" aria-hidden="true">
+        <rect x="20" y="18" width="60" height="84" rx="16" fill="#a12f2b" opacity=".14"/>
+        <rect x="92" y="18" width="60" height="84" rx="16" fill="#c98b00" opacity=".18"/>
+        <rect x="164" y="18" width="60" height="84" rx="16" fill="#4f2019" opacity=".12"/>
+        <rect x="236" y="18" width="60" height="84" rx="16" fill="#a12f2b" opacity=".08"/>
+        <path d="M50 38 L50 82" stroke="#a12f2b" stroke-width="5" stroke-linecap="round"/>
+        <path d="M122 28 Q92 60 122 92" stroke="#c98b00" stroke-width="5" fill="none" stroke-linecap="round"/>
+        <path d="M194 30 L214 60 L194 90 L174 60 Z" fill="none" stroke="#4f2019" stroke-width="4"/>
+        <circle cx="266" cy="60" r="22" fill="none" stroke="#a12f2b" stroke-width="4" stroke-dasharray="4 8"/>
+      </svg>
+      <h4>Material translation</h4>
+      <p>From cloth to interface, these SVG cues translate tactile craft logic into fast-loading visual signposts that support the prose.</p>
+    </article>
+    <article class="glass concept-card">
+      <svg viewBox="0 0 320 120" aria-hidden="true">
+        <path d="M40 88 L90 34 L140 88" fill="none" stroke="#4f2019" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M160 88 L160 34 L210 34 L210 88" fill="none" stroke="#a12f2b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M238 88 C238 40, 292 40, 292 88" fill="none" stroke="#c98b00" stroke-width="5" stroke-linecap="round"/>
+        <circle cx="90" cy="34" r="8" fill="#c98b00"/>
+        <circle cx="210" cy="34" r="8" fill="#a12f2b"/>
+        <circle cx="292" cy="88" r="8" fill="#4f2019"/>
+      </svg>
+      <h4>Concept before image</h4>
+      <p>Going forward, I can pair rich writing with lightweight SVG concept graphics first, then layer in heavier images only where they add value.</p>
+    </article>
+  </section>
   <div class="toolbar">
     <div class="toolbar-inner">
       <input id="search" placeholder="Search styles, motifs, materials, communities..." />
