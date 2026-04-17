@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "name": "Pithora Painting",
+    "category": "Folk & Painting Traditions",
+    "desc": "Ritual painting tradition of the Rathwa and related communities, known for horse motifs, deities, narrative bands, and ceremonial symbolism.",
+    "prompt": "Incorporate Gujarat Pithora painting aesthetics: ritual folk mural composition, stylized horses, deities, dotted decorative bands, earthy pigments, ceremonial symbolism, dense narrative layout, handcrafted tribal energy.",
+    "slug": "01-pithora-painting",
+    "image": "images/01-pithora-painting.png"
+  },
+  {
+    "id": 2,
+    "name": "Mata ni Pachedi",
+    "category": "Folk & Painting Traditions",
+    "desc": "Temple cloth painting tradition with sacred figures, shrine-like layouts, red-black-white palette, and devotional storytelling.",
+    "prompt": "Use Mata ni Pachedi style from Gujarat: temple-cloth composition, hand-painted sacred iconography, shrine framing, red black and white palette, devotional symmetry, folk textile illustration.",
+    "slug": "02-mata-ni-pachedi",
+    "image": "images/02-mata-ni-pachedi.png"
+  },
+  {
+    "id": 3,
+    "name": "Warli Painting",
+    "category": "Folk & Painting Traditions",
+    "desc": "Minimal tribal painting language using geometric human figures, village scenes, and rhythmic circular movement; included here through South Gujarat influence.",
+    "prompt": "Apply South Gujarat-influenced Warli style: minimal tribal mural art, white geometric stick figures, village life scenes, circular dance motifs, mud-wall backdrop, simple symbolic storytelling.",
+    "slug": "03-warli-painting",
+    "image": "images/03-warli-painting.png"
+  },
+  {
+    "id": 4,
+    "name": "Tribal Wall Painting (Rathwa / Bhil)",
+    "category": "Folk & Painting Traditions",
+    "desc": "Regional wall art featuring local symbols, animals, gods, geometric bands, and celebratory color.",
+    "prompt": "Use Gujarat tribal wall painting aesthetics inspired by Rathwa and Bhil traditions: vivid folk mural, animals, sacred symbols, geometric borders, flat colors, handmade wall-art texture.",
+    "slug": "04-tribal-wall-painting-rathwa-bhil",
+    "image": "images/04-tribal-wall-painting-rathwa-bhil.png"
+  },
+  {
+    "id": 5,
+    "name": "Sanjhi-style Ritual Floor/Wall Art",
+    "category": "Folk & Painting Traditions",
+    "desc": "Ephemeral ritual art with cutwork or powdered patterns adapted into regional floor and wall compositions.",
+    "prompt": "Incorporate Gujarati ritual floor and wall art inspired by Sanjhi-style patterning: intricate stencil-like symmetry, devotional motifs, radial floral geometry, handcrafted ceremonial detail.",
+    "slug": "05-sanjhi-style-ritual-floor-wall-art",
+    "image": "images/05-sanjhi-style-ritual-floor-wall-art.png"
+  },
+  {
+    "id": 6,
+    "name": "Bandhani (Bandhej Tie-Dye)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Iconic resist-dyed textile tradition using tied dots, fields, circles, and symbolic patterning in vibrant colorways.",
+    "prompt": "Use Gujarat Bandhani design language: tie-dye dot clusters, concentric resist patterns, vibrant festive colors, fine textile grain, handcrafted bandhej rhythm, celebratory surface design.",
+    "slug": "06-bandhani-bandhej-tie-dye",
+    "image": "images/06-bandhani-bandhej-tie-dye.png"
+  },
+  {
+    "id": 7,
+    "name": "Leheriya",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Wave-pattern resist dye aesthetic featuring diagonal ripples and fluid chromatic motion.",
+    "prompt": "Incorporate Gujarati Leheriya-inspired textile aesthetics: flowing diagonal wave bands, tie-dye softness, rhythmic stripes, festive color gradients, handcrafted resist-dye texture.",
+    "slug": "07-leheriya",
+    "image": "images/07-leheriya.png"
+  },
+  {
+    "id": 8,
+    "name": "Patola (Double Ikat Weaving)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Highly prized double ikat silk tradition with jewel-like symmetry, geometric precision, and complex woven motifs.",
+    "prompt": "Use Gujarat Patola double-ikat aesthetics: jewel-toned symmetry, geometric precision, woven motif grids, rich silk sensibility, ceremonial luxury, crisp repeating pattern language.",
+    "slug": "08-patola-double-ikat-weaving",
+    "image": "images/08-patola-double-ikat-weaving.png"
+  },
+  {
+    "id": 9,
+    "name": "Single Ikat (Rajkot Ikat)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "A softer ikat tradition with blurred resist-dyed edges and woven rhythmic geometry.",
+    "prompt": "Apply Rajkot Ikat style from Gujarat: softly feathered ikat edges, woven geometric repeats, elegant textile rhythm, artisanal resist-dye character, balanced heritage palette.",
+    "slug": "09-single-ikat-rajkot-ikat",
+    "image": "images/09-single-ikat-rajkot-ikat.png"
+  },
+  {
+    "id": 10,
+    "name": "Ajrakh Block Printing",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Complex block-printed textile art with indigo, madder, black, symmetry, and star-floral geometry.",
+    "prompt": "Use Gujarat Ajrakh aesthetics: intricate hand block print, indigo madder black palette, star geometry, floral medallions, layered natural-dye look, precise symmetrical repeats.",
+    "slug": "10-ajrakh-block-printing",
+    "image": "images/10-ajrakh-block-printing.png"
+  },
+  {
+    "id": 11,
+    "name": "Batik (Gujarat adaptation)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Wax-resist textile art adapted into local color sensibilities and decorative patterning.",
+    "prompt": "Incorporate Gujarat-adapted batik style: wax-resist crackle texture, layered dye fields, flowing textile motifs, artisanal handcrafted surface, rich decorative composition.",
+    "slug": "11-batik-gujarat-adaptation",
+    "image": "images/11-batik-gujarat-adaptation.png"
+  },
+  {
+    "id": 12,
+    "name": "Rogan Painting",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Rare cloth-painting tradition using castor-oil-based paste to create raised, ornamental, often symmetrical imagery.",
+    "prompt": "Use Gujarat Rogan painting aesthetics: ornate flowing floral-tree motifs, raised paint feel, mirrored composition, luminous cloth surface, detailed hand-drawn ornamentation.",
+    "slug": "12-rogan-painting",
+    "image": "images/12-rogan-painting.png"
+  },
+  {
+    "id": 13,
+    "name": "Kalamkari (Gujarat trade-influenced variant)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Narrative cloth art with pen-drawn floral and figurative detail, adapted through regional trade and influence.",
+    "prompt": "Apply Gujarat-influenced Kalamkari aesthetics: hand-drawn textile storytelling, floral vines, figurative linework, natural dye feel, ornate borders, heritage narrative composition.",
+    "slug": "13-kalamkari-gujarat-trade-influenced-variant",
+    "image": "images/13-kalamkari-gujarat-trade-influenced-variant.png"
+  },
+  {
+    "id": 14,
+    "name": "Mashru Weaving",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Glossy striped woven textile combining silk-like sheen with cotton comfort, often featuring saturated bands.",
+    "prompt": "Use Gujarat Mashru weaving inspiration: lustrous striped textile, satin sheen, bold color bands, woven luxury, historical garment sensibility, rhythmic linear elegance.",
+    "slug": "14-mashru-weaving",
+    "image": "images/14-mashru-weaving.png"
+  },
+  {
+    "id": 15,
+    "name": "Tangaliya Weaving",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Distinctive dot-weave textile with raised bead-like patterning embedded in the cloth.",
+    "prompt": "Incorporate Tangaliya weaving from Gujarat: dotted bead-like woven texture, raised pattern clusters, handcrafted pastoral textile, earthy modern geometry, tactile woven detail.",
+    "slug": "15-tangaliya-weaving",
+    "image": "images/15-tangaliya-weaving.png"
+  },
+  {
+    "id": 16,
+    "name": "Vankar Weaving",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Handloom weaving heritage associated with traditional community knowledge, utility, and regional pattern sensibility.",
+    "prompt": "Use Gujarat Vankar weaving aesthetics: handloom texture, understated stripes and checks, artisan-woven structure, heritage cloth sensibility, tactile thread character.",
+    "slug": "16-vankar-weaving",
+    "image": "images/16-vankar-weaving.png"
+  },
+  {
+    "id": 17,
+    "name": "Khadi",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Handspun, handwoven textile emphasizing texture, material honesty, and understated craft beauty.",
+    "prompt": "Apply Gujarat khadi aesthetics: handspun irregular texture, breathable woven plain, natural fiber softness, minimalist craft honesty, subtle artisanal slub detail.",
+    "slug": "17-khadi",
+    "image": "images/17-khadi.png"
+  },
+  {
+    "id": 18,
+    "name": "Zari Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Metal-thread embellishment creating luminous ornament, borders, and ceremonial richness.",
+    "prompt": "Use Gujarat zari embroidery style: metallic thread shimmer, ceremonial floral borders, luxurious ornament, fine detailing, festive textile richness, regal craft finish.",
+    "slug": "18-zari-embroidery",
+    "image": "images/18-zari-embroidery.png"
+  },
+  {
+    "id": 19,
+    "name": "Aari Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Hook-based embroidery known for fluid curving motifs, florals, and continuous stitched flow.",
+    "prompt": "Incorporate Gujarat Aari embroidery: fluid hook-stitched floral scrolls, graceful curves, dense ornamental fills, textile elegance, refined handcrafted detailing.",
+    "slug": "19-aari-embroidery",
+    "image": "images/19-aari-embroidery.png"
+  },
+  {
+    "id": 20,
+    "name": "Mochi Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Fine chain-stitch embroidery associated with leatherwork and textiles, often richly patterned.",
+    "prompt": "Use Gujarat Mochi embroidery aesthetics: intricate chain-stitch craftsmanship, dense floral motifs, artisan precision, colorful threadwork, heritage luxury textile detailing.",
+    "slug": "20-mochi-embroidery",
+    "image": "images/20-mochi-embroidery.png"
+  },
+  {
+    "id": 21,
+    "name": "Kutch Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Broad umbrella term covering richly diverse embroidery traditions from Kutch, often bold, mirrored, and highly tactile.",
+    "prompt": "Apply Kutch embroidery aesthetics from Gujarat: vivid threads, mirror accents, bold folk motifs, dense handcrafted surfaces, celebratory textile richness, artisan patch-like detail.",
+    "slug": "21-kutch-embroidery",
+    "image": "images/21-kutch-embroidery.png"
+  },
+  {
+    "id": 22,
+    "name": "Rabari Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Pastoral embroidery tradition with mirrors, strong motifs, and vibrant narrative craft identity.",
+    "prompt": "Use Rabari embroidery style from Gujarat: bold mirror work, vibrant thread motifs, nomadic pastoral ornament, dense handcrafted texture, striking folk textile character.",
+    "slug": "22-rabari-embroidery",
+    "image": "images/22-rabari-embroidery.png"
+  },
+  {
+    "id": 23,
+    "name": "Ahir Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Embroidery tradition known for curving lines, floral forms, and bright compositional movement.",
+    "prompt": "Incorporate Gujarat Ahir embroidery: flowing floral motifs, bright thread palette, graceful curvilinear stitching, mirror highlights, folk elegance, richly embellished textile surface.",
+    "slug": "23-ahir-embroidery",
+    "image": "images/23-ahir-embroidery.png"
+  },
+  {
+    "id": 24,
+    "name": "Sodha Rajput Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Refined embroidery with geometric order, vivid contrasts, and stately handcrafted beauty.",
+    "prompt": "Use Gujarat Sodha Rajput embroidery aesthetics: structured geometric motifs, bright thread contrasts, mirrored accents, aristocratic folk craft, detailed textile surface.",
+    "slug": "24-sodha-rajput-embroidery",
+    "image": "images/24-sodha-rajput-embroidery.png"
+  },
+  {
+    "id": 25,
+    "name": "Meghwal Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Embroidery associated with strong color, geometric fields, and community-specific motif vocabularies.",
+    "prompt": "Apply Meghwal embroidery style from Gujarat: vibrant geometric stitched motifs, strong color blocks, folk symbolism, handcrafted density, textile ornament with cultural character.",
+    "slug": "25-meghwal-embroidery",
+    "image": "images/25-meghwal-embroidery.png"
+  },
+  {
+    "id": 26,
+    "name": "Mutwa Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Exceptionally fine micro-embroidery with extraordinary precision and small-scale geometric detailing.",
+    "prompt": "Use Gujarat Mutwa embroidery aesthetics: ultra-fine micro-stitch detail, miniature geometric precision, delicate mirror highlights, jewel-like textile craftsmanship, intricate handcrafted refinement.",
+    "slug": "26-mutwa-embroidery",
+    "image": "images/26-mutwa-embroidery.png"
+  },
+  {
+    "id": 27,
+    "name": "Soof Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Counted-thread geometric embroidery producing elegant angular forms and highly structured pattern logic.",
+    "prompt": "Incorporate Gujarat Soof embroidery: counted-thread geometry, angular motifs, precise symmetrical structure, fine handcrafted textile precision, restrained yet intricate folk design.",
+    "slug": "27-soof-embroidery",
+    "image": "images/27-soof-embroidery.png"
+  },
+  {
+    "id": 28,
+    "name": "Pakko Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Dense, solid embroidery style with strong filled forms and enduring decorative weight.",
+    "prompt": "Use Gujarat Pakko embroidery style: dense filled stitching, bold motif solidity, mirror accents, highly tactile handcrafted surface, strong decorative impact.",
+    "slug": "28-pakko-embroidery",
+    "image": "images/28-pakko-embroidery.png"
+  },
+  {
+    "id": 29,
+    "name": "Kharek Embroidery",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Structured embroidery style marked by rectilinear logic and strong counted divisions.",
+    "prompt": "Apply Gujarat Kharek embroidery aesthetics: rectilinear counted-thread motifs, bold geometric divisions, vivid threadwork, handcrafted pattern discipline, textile structure and rhythm.",
+    "slug": "29-kharek-embroidery",
+    "image": "images/29-kharek-embroidery.png"
+  },
+  {
+    "id": 30,
+    "name": "Mirror Work (Shisha Embroidery)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Reflective embellishment tradition using inset mirrors to animate textile surfaces with light.",
+    "prompt": "Use Gujarat shisha mirror-work aesthetics: sparkling inset mirrors, bright embroidered surrounds, festive textile surface, reflective folk ornament, handcrafted celebratory richness.",
+    "slug": "30-mirror-work-shisha-embroidery",
+    "image": "images/30-mirror-work-shisha-embroidery.png"
+  },
+  {
+    "id": 31,
+    "name": "Appliqué Work (Katab)",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Layered cloth-cut decoration building motifs through stitched shapes and contrasting color blocks.",
+    "prompt": "Incorporate Gujarat Katab appliqué: layered cut-cloth motifs, stitched silhouettes, bold color contrast, handcrafted textile collage, graphic ornamental patterning.",
+    "slug": "31-appliqué-work-katab",
+    "image": "images/31-appliqué-work-katab.png"
+  },
+  {
+    "id": 32,
+    "name": "Patchwork Textile Art",
+    "category": "Textile & Surface Design Traditions",
+    "desc": "Composed textile surfaces assembled from varied fragments, patterns, and tactile histories.",
+    "prompt": "Use Gujarat patchwork textile aesthetics: assembled fabric fragments, stitched composition, mixed folk patterns, tactile layering, colorful handcrafted collage effect.",
+    "slug": "32-patchwork-textile-art",
+    "image": "images/32-patchwork-textile-art.png"
+  },
+  {
+    "id": 33,
+    "name": "Lippan Kaam",
+    "category": "Craft & Material Arts",
+    "desc": "Mud-and-mirror relief work creating raised geometric and floral surfaces on walls, especially in Kutch.",
+    "prompt": "Apply Gujarat Lippan Kaam style: mud-relief wall art, inset mirrors, desert-earth palette, raised geometric and floral motifs, handcrafted architectural texture.",
+    "slug": "33-lippan-kaam",
+    "image": "images/33-lippan-kaam.png"
+  },
+  {
+    "id": 34,
+    "name": "Terracotta Pottery",
+    "category": "Craft & Material Arts",
+    "desc": "Earthen pottery tradition shaped by hand and kiln, often with tactile simplicity and ritual/domestic function.",
+    "prompt": "Use Gujarat terracotta pottery aesthetics: warm earthen clay, handmade vessel forms, matte fired texture, subtle incised ornament, rustic artisanal authenticity.",
+    "slug": "34-terracotta-pottery",
+    "image": "images/34-terracotta-pottery.png"
+  },
+  {
+    "id": 35,
+    "name": "Clay Idol Making",
+    "category": "Craft & Material Arts",
+    "desc": "Sculptural craft tradition of devotional and festive clay figures with hand-shaped expressiveness.",
+    "prompt": "Incorporate Gujarat clay idol-making style: hand-sculpted devotional figures, earthen materiality, painted accents, ritual craftsmanship, expressive artisanal form.",
+    "slug": "35-clay-idol-making",
+    "image": "images/35-clay-idol-making.png"
+  },
+  {
+    "id": 36,
+    "name": "Wood Carving (Saurashtra/Kutch)",
+    "category": "Craft & Material Arts",
+    "desc": "Decorative and architectural carving tradition featuring floral, figural, and geometric motifs.",
+    "prompt": "Use Gujarat wood carving aesthetics from Saurashtra and Kutch: carved floral panels, deep relief detail, heritage craftsmanship, warm timber tone, ornate architectural character.",
+    "slug": "36-wood-carving-saurashtra-kutch",
+    "image": "images/36-wood-carving-saurashtra-kutch.png"
+  },
+  {
+    "id": 37,
+    "name": "Stone Carving",
+    "category": "Craft & Material Arts",
+    "desc": "Chiseled decorative stonework found in sacred and civic contexts, often rich in pattern and relief.",
+    "prompt": "Apply Gujarat stone carving style: chiseled relief ornament, floral and geometric motifs, heritage monument craftsmanship, tactile mineral texture, intricate carved depth.",
+    "slug": "37-stone-carving",
+    "image": "images/37-stone-carving.png"
+  },
+  {
+    "id": 38,
+    "name": "Marble Carving",
+    "category": "Craft & Material Arts",
+    "desc": "Refined sculptural carving in marble emphasizing delicacy, polish, and devotional ornament.",
+    "prompt": "Use Gujarat marble carving aesthetics: polished pale stone, delicate relief carving, sacred ornament, floral precision, luminous sculptural craftsmanship.",
+    "slug": "38-marble-carving",
+    "image": "images/38-marble-carving.png"
+  },
+  {
+    "id": 39,
+    "name": "Lacquer Work (Lac-turned wood)",
+    "category": "Craft & Material Arts",
+    "desc": "Turned wood finished with lacquer for smooth, glossy, colorful decorative objects.",
+    "prompt": "Incorporate Gujarat lacquered woodcraft: turned wooden forms, glossy lacquer finish, bright concentric bands, artisanal toy-craft charm, polished decorative surface.",
+    "slug": "39-lacquer-work-lac-turned-wood",
+    "image": "images/39-lacquer-work-lac-turned-wood.png"
+  },
+  {
+    "id": 40,
+    "name": "Metal Craft (Brass, Bell Metal)",
+    "category": "Craft & Material Arts",
+    "desc": "Functional and decorative metalwork shaped into vessels, ritual objects, and crafted forms.",
+    "prompt": "Use Gujarat brass and bell-metal craft aesthetics: hand-worked metal surfaces, hammered glow, traditional vessel forms, artisanal patina, heritage utility and ornament.",
+    "slug": "40-metal-craft-brass-bell-metal",
+    "image": "images/40-metal-craft-brass-bell-metal.png"
+  },
+  {
+    "id": 41,
+    "name": "Copper Bell Making (Kutch)",
+    "category": "Craft & Material Arts",
+    "desc": "Distinctive pastoral bell craft with forged copper-alloy surfaces and resonant handcrafted form.",
+    "prompt": "Apply Gujarat Kutch copper bell-making style: forged pastoral bells, weathered metallic patina, handcrafted rivets and contours, rustic artisanal authenticity.",
+    "slug": "41-copper-bell-making-kutch",
+    "image": "images/41-copper-bell-making-kutch.png"
+  },
+  {
+    "id": 42,
+    "name": "Silver Jewelry Craft (Kutchi/Tribal)",
+    "category": "Craft & Material Arts",
+    "desc": "Bold tribal and regional jewelry traditions with heavy silver forms, pendants, cuffs, and symbolic ornament.",
+    "prompt": "Use Gujarat Kutchi tribal silver jewelry aesthetics: bold hammered silver, chunky adornment, ethnic ornament, engraved detail, handcrafted heritage luxury.",
+    "slug": "42-silver-jewelry-craft-kutchi-tribal",
+    "image": "images/42-silver-jewelry-craft-kutchi-tribal.png"
+  },
+  {
+    "id": 43,
+    "name": "Beadwork (Torans, ornaments)",
+    "category": "Craft & Material Arts",
+    "desc": "Decorative bead craft creating torans, hangings, and ornaments through patterned repetition and color.",
+    "prompt": "Incorporate Gujarat beadwork aesthetics: colorful bead-pattern construction, decorative hangings, geometric ornament, handcrafted festive shimmer, toran-inspired detailing.",
+    "slug": "43-beadwork-torans-ornaments",
+    "image": "images/43-beadwork-torans-ornaments.png"
+  },
+  {
+    "id": 44,
+    "name": "Leather Craft (Footwear, bags)",
+    "category": "Craft & Material Arts",
+    "desc": "Handmade leather goods enriched by stitch, form, and decorative embellishment.",
+    "prompt": "Use Gujarat leather craft inspiration: hand-stitched artisanal leather, embossed and embroidered details, heritage footwear and bag aesthetics, warm material richness.",
+    "slug": "44-leather-craft-footwear-bags",
+    "image": "images/44-leather-craft-footwear-bags.png"
+  },
+  {
+    "id": 45,
+    "name": "Bamboo Craft",
+    "category": "Craft & Material Arts",
+    "desc": "Lightweight craft tradition using split bamboo in utility and decorative objects.",
+    "prompt": "Apply Gujarat bamboo craft aesthetics: split bamboo weaving, natural cane tones, lightweight handcrafted structure, eco-artisan material beauty, rhythmic linear pattern.",
+    "slug": "45-bamboo-craft",
+    "image": "images/45-bamboo-craft.png"
+  },
+  {
+    "id": 46,
+    "name": "Cane Weaving",
+    "category": "Craft & Material Arts",
+    "desc": "Interlaced cane surfaces creating texture, translucency, and structural rhythm in everyday objects.",
+    "prompt": "Use Gujarat cane weaving style: interlaced natural fibers, airy woven pattern, warm neutral palette, handcrafted furniture and basket texture, elegant material geometry.",
+    "slug": "46-cane-weaving",
+    "image": "images/46-cane-weaving.png"
+  },
+  {
+    "id": 47,
+    "name": "Stepwell Architecture (Vav)",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Monumental subterranean architecture with descending terraces, carved columns, and dramatic geometric depth.",
+    "prompt": "Incorporate Gujarat vav stepwell architecture: descending stone terraces, carved pillars, monumental symmetry, sacred water architecture, dramatic perspective and shadow.",
+    "slug": "47-stepwell-architecture-vav",
+    "image": "images/47-stepwell-architecture-vav.png"
+  },
+  {
+    "id": 48,
+    "name": "Maru-Gurjara Temple Architecture",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Highly ornate western Indian temple style defined by profuse carving, articulated towers, and precise stone ornament.",
+    "prompt": "Use Maru-Gurjara temple architecture from Gujarat: intricately carved sandstone temple forms, soaring shikhara, ornate columns, sculptural detail, sacred symmetry.",
+    "slug": "48-maru-gurjara-temple-architecture",
+    "image": "images/48-maru-gurjara-temple-architecture.png"
+  },
+  {
+    "id": 49,
+    "name": "Jain Temple Marble Art",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Exquisite marble temple carving marked by filigreed ceilings, purity of material, and devotional intricacy.",
+    "prompt": "Apply Gujarat Jain temple marble art aesthetics: luminous white marble, ultra-fine carved ceilings, sacred precision, serene ornament, celestial geometric detail.",
+    "slug": "49-jain-temple-marble-art",
+    "image": "images/49-jain-temple-marble-art.png"
+  },
+  {
+    "id": 50,
+    "name": "Haveli Wood Architecture",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Traditional mansion architecture with carved facades, balconies, brackets, and rich wooden detail.",
+    "prompt": "Use Gujarat haveli wood architecture: carved timber facades, jharokha balconies, ornamental brackets, heritage urban craft, warm richly detailed wood texture.",
+    "slug": "50-haveli-wood-architecture",
+    "image": "images/50-haveli-wood-architecture.png"
+  },
+  {
+    "id": 51,
+    "name": "Islamic-Geometric Indo-Saracenic Design",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Sultanate-era design vocabulary blending Islamic geometry, arches, and local craftsmanship in stone and structure.",
+    "prompt": "Incorporate Gujarat Sultanate Indo-Saracenic aesthetics: pointed arches, geometric stone ornament, Islamic patterns, carved facades, historic syncretic architectural elegance.",
+    "slug": "51-islamic-geometric-indo-saracenic-design",
+    "image": "images/51-islamic-geometric-indo-saracenic-design.png"
+  },
+  {
+    "id": 52,
+    "name": "Torana (Ceremonial gateways)",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Decorative gateway tradition with symbolic framing, festivity, and processional significance.",
+    "prompt": "Use Gujarat torana gateway aesthetics: ceremonial entrance framing, carved symbolic motifs, festive vertical composition, sacred threshold design, ornate decorative structure.",
+    "slug": "52-torana-ceremonial-gateways",
+    "image": "images/52-torana-ceremonial-gateways.png"
+  },
+  {
+    "id": 53,
+    "name": "Jali (Lattice Stone Carving)",
+    "category": "Architectural & Sculptural Styles",
+    "desc": "Perforated stone screens producing intricate geometry, filtered light, and cooling shadow patterns.",
+    "prompt": "Apply Gujarat jali stone-carving aesthetics: perforated lattice geometry, filtered sunlight, delicate stone screenwork, sacred architectural pattern, elegant shadow play.",
+    "slug": "53-jali-lattice-stone-carving",
+    "image": "images/53-jali-lattice-stone-carving.png"
+  },
+  {
+    "id": 54,
+    "name": "Garba (Dance + Costume Art)",
+    "category": "Performing & Visual Culture",
+    "desc": "Festive dance culture combining circular movement, embroidered costume, mirror work, rhythm, and communal spectacle.",
+    "prompt": "Use Gujarat Garba aesthetics: swirling circular dance energy, embroidered costumes, mirror work sparkle, festive color, rhythmic celebratory motion, Navratri atmosphere.",
+    "slug": "54-garba-dance-costume-art",
+    "image": "images/54-garba-dance-costume-art.png"
+  },
+  {
+    "id": 55,
+    "name": "Dandiya Raas",
+    "category": "Performing & Visual Culture",
+    "desc": "Stick dance tradition marked by paired choreography, vivid garments, and kinetic celebratory patterns.",
+    "prompt": "Incorporate Gujarat Dandiya Raas style: dynamic stick dance motion, colorful festive garments, mirrored textiles, rhythmic paired composition, energetic celebration.",
+    "slug": "55-dandiya-raas",
+    "image": "images/55-dandiya-raas.png"
+  },
+  {
+    "id": 56,
+    "name": "Bhavai Folk Theatre",
+    "category": "Performing & Visual Culture",
+    "desc": "Portable folk theatre tradition with dramatic costume, satire, storytelling, and performative visual identity.",
+    "prompt": "Apply Gujarat Bhavai folk theatre aesthetics: expressive costume, dramatic stage presence, folk storytelling mood, colorful performance design, artisanal theatricality.",
+    "slug": "56-bhavai-folk-theatre",
+    "image": "images/56-bhavai-folk-theatre.png"
+  },
+  {
+    "id": 57,
+    "name": "Puppetry (Kathputli – regional forms)",
+    "category": "Performing & Visual Culture",
+    "desc": "Regional puppetry traditions with stylized costume, painted faces, and narrative performance craft.",
+    "prompt": "Use Gujarat regional puppetry aesthetics: handcrafted puppets, painted faces, folk costume detailing, theatrical staging, playful artisanal storytelling.",
+    "slug": "57-puppetry-kathputli-regional-forms",
+    "image": "images/57-puppetry-kathputli-regional-forms.png"
+  },
+  {
+    "id": 58,
+    "name": "Folk Costume Design",
+    "category": "Performing & Visual Culture",
+    "desc": "Regional clothing traditions of Kutch and Saurashtra featuring embroidery, mirrors, silhouette, and layered ornament.",
+    "prompt": "Incorporate Gujarat folk costume design: Kutchi and Saurashtra dress, mirror embroidery, layered textiles, bold silhouette, festive jewelry, richly decorated apparel.",
+    "slug": "58-folk-costume-design",
+    "image": "images/58-folk-costume-design.png"
+  },
+  {
+    "id": 59,
+    "name": "Rangoli (Sathiya patterns)",
+    "category": "Ritual & Decorative Arts",
+    "desc": "Threshold and ritual floor art using auspicious motifs, geometric patterning, and everyday sacred decoration.",
+    "prompt": "Use Gujarat rangoli and sathiya aesthetics: auspicious threshold patterns, bright powdered color, geometric folk motifs, symmetrical ritual floor art, festive welcome design.",
+    "slug": "59-rangoli-sathiya-patterns",
+    "image": "images/59-rangoli-sathiya-patterns.png"
+  },
+  {
+    "id": 60,
+    "name": "Mandana-style floor art",
+    "category": "Ritual & Decorative Arts",
+    "desc": "Regional floor-art overlap emphasizing geometric, symbolic, and ritualized linear compositions.",
+    "prompt": "Apply Gujarat regional Mandana-like floor art: chalked geometric ritual motifs, linear symmetry, hand-drawn courtyard design, sacred domestic ornament.",
+    "slug": "60-mandana-style-floor-art",
+    "image": "images/60-mandana-style-floor-art.png"
+  },
+  {
+    "id": 61,
+    "name": "Toran (Decorative door hangings)",
+    "category": "Ritual & Decorative Arts",
+    "desc": "Decorative hanging tradition using fabric, beads, mirrors, leaves, or embroidered motifs to ornament entrances.",
+    "prompt": "Use Gujarat toran hanging aesthetics: decorative doorway garland, embroidered or beaded motifs, festive symmetry, welcoming threshold ornament, handcrafted folk detail.",
+    "slug": "61-toran-decorative-door-hangings",
+    "image": "images/61-toran-decorative-door-hangings.png"
+  },
+  {
+    "id": 62,
+    "name": "Pichwai",
+    "category": "Ritual & Decorative Arts",
+    "desc": "Devotional painted-cloth tradition centered on Krishna imagery, lotuses, cows, ornamented borders, and sacred atmosphere.",
+    "prompt": "Incorporate Gujarat-region Pichwai influence: devotional cloth painting, lotus and cow motifs, ornate shrine backdrop, sacred stillness, richly detailed ceremonial composition.",
+    "slug": "62-pichwai",
+    "image": "images/62-pichwai.png"
+  }
+]
